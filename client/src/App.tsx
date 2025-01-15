@@ -1,13 +1,15 @@
 
+import { BrowserRouter } from 'react-router-dom'
 import './App.css'
-import { Button } from './components/ui/button'
+import AppRoutes from './AppRoutes'
 
 function App() {
 
   return (
     <div>
-     <h1>Welcome to Appointment Dashboard!!!</h1>
-     <Button className='bg-red-500'>Hello Click !</Button>
+     <BrowserRouter>
+        <AppRoutes />
+     </BrowserRouter>
     </div>
   )
 }
