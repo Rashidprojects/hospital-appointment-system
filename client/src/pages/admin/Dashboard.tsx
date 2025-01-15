@@ -4,7 +4,7 @@ import AdminLayout from '../../layouts/AdminLayout'
 const AdminDashboard: React.FC = () => {
   return (
     <AdminLayout >
-        <div className='min-h-screen'>
+        <div >
             <h1>Admin Dashboard</h1>
         </div>
     </AdminLayout>
