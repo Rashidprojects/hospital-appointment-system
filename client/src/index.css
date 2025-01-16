@@ -29,6 +29,8 @@
     --primary-foreground: 0 0% 98%;
     --secondary: 210 87% 43%;
     --secondary-foreground: 210 70% 53%;
+    --lightBlue: 204.09 70.21% 63.14%;
+    --navbar: 211 29% 39%;
     --muted: 0 0% 96.1%;
     --muted-foreground: 0 0% 45.1%;
     --accent: 0 0% 96.1%;
@@ -56,6 +58,8 @@
     --primary-foreground: 0 0% 9%;
     --secondary: 210 87% 43%;
     --secondary-foreground: 210 70% 53%;
+    --lightBlue: 204.09 70.21% 63.14%;
+    --navbar: 0 0% 100%;
     --muted: 0 0% 14.9%;
     --muted-foreground: 0 0% 63.9%;
     --accent: 0 0% 14.9%;
