@@ -28,6 +28,8 @@ module.exports = {
   				DEFAULT: 'hsl(var(--secondary))',
   				foreground: 'hsl(var(--secondary-foreground))'
   			},
+			lightBlue: 'hsl(var(--lightBlue))',
+			navbar: 'hsl(var(navbar))', 
   			muted: {
   				DEFAULT: 'hsl(var(--muted))',
   				foreground: 'hsl(var(--muted-foreground))'
