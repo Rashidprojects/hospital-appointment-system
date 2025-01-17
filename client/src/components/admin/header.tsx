@@ -1,5 +1,5 @@
 import React from 'react'
-import { useTheme } from '../context/theme-provider'
+import { useTheme } from '../../context/theme-provider'
 import { Link } from 'react-router-dom'
 import { Bell, Moon, Sun } from 'lucide-react'
 import logoDark from '../../assets/dark-mode.png'

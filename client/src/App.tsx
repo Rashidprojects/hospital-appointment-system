@@ -2,7 +2,7 @@
 import { BrowserRouter } from 'react-router-dom'
 import './App.css'
 import AppRoutes from './AppRoutes'
-import { ThemeProvider } from './components/context/theme-provider'
+import { ThemeProvider } from './context/theme-provider'
 
 function App() {
 
